@@ -1,0 +1,6 @@
+[submodule "Eureka-Scala"]
+	path = Eureka-Scala
+	url = https://github.com/Duzduran/Eureka-Scala.git
+[submodule "Eureka-Java"]
+	path = Eureka-Java
+	url = https://github.com/Duzduran/Eureka-Java.git
