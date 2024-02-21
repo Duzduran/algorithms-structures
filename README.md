@@ -1,4 +1,4 @@
-Welcome to the Eureka repository, where you'll find Java and Scala solutions to challenging algorithmic problems. These solutions are crafted not just to solve the problems, but also to serve as educational tools. Each solution includes unit tests that are ideal for those looking to learn and experiment with different algorithms and data structures. 
+Welcome to the algorithms-structures repository, where you'll find Java and Scala solutions to challenging algorithmic problems. These solutions are crafted not just to solve the problems, but also to serve as educational tools. Each solution includes unit tests that are ideal for those looking to learn and experiment with different algorithms and data structures. 
 ## What's Inside?  
 - Java and Scala solutions for LeetCode problems. 
 - Comprehensive unit tests for each solution. 
